@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+ body{
+	 display: flex;
+	 justify-content: space-around;
+ }
+img{
+	width: 60%;
+	height: 60vw;
+}
